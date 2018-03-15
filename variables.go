@@ -1,6 +1,8 @@
 package main
 
-code link https://play.golang.org/p/W8vGaJ3Z5jd
+import "fmt"
+
+// code link https://play.golang.org/p/W8vGaJ3Z5jd
 func main() {
 	const pi = 3.145
 	var x int = 20
